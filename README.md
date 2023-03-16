@@ -32,7 +32,7 @@ Plumbers is a **numbers** system for **[Plover](https://github.com/openstenoproj
 
 Plumbers is a python dictionary, meaning you need to make sure you have the [python_plover_dictionary](https://github.com/openstenoproject/plover_python_dictionary) plugin installed (you can also do that from the Plugins Manager directly in Plover).
 
-Once that's done, you just need to download the Plumbers dictionary (`Plumbers.py`) from the releases section or directly on the repo, and add it to your dictionaries in Plover.
+Once that's done, you just need to download the Plumbers dictionary (`Plumbers.py`) from the releases section (to be added) or directly on the repo, and add it to your dictionaries in Plover.
 
 ### Usage
 
