@@ -1,3 +1,6 @@
+# Plumbers dictionary by Vermoot
+# https://github.com/Vermoot/Plumbers
+
 # Chords
 # Chords in these dicts should be written without any '-', and can't contain an asterisk.
 linker = "KWRAO"
