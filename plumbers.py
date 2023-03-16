@@ -27,7 +27,7 @@ unique = {
     "SKHFPB":    16,
     "SKPHFPB":   17,
     "SKPRFPB":   18,
-    "STWHFPB":    19,
+    "STWHFPB":   19,
 }
 
 starters = {
@@ -232,9 +232,7 @@ class Outline(list):
                     if multiplicator == 100:
                         if not last_under_thou < 100: raise KeyError
 
-                    if oom(last_under_thou * multiplicator) > last_big_oom:
-                        print(f"{last_under_thou} * {multiplicator} > {last_big_oom}")
-                        raise KeyError
+                    if oom(last_under_thou * multiplicator) > last_big_oom: raise KeyError
                     num = num - last_under_thou + multiplicator * last_under_thou
                     last_big_oom = oom(multiplicator)
                     max_allowed_oom = oom(multiplicator) - 1
