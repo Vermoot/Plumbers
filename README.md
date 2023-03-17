@@ -112,7 +112,7 @@ Unfold below to find the lists of starter, ender, and unique (0-19) chords.
 
 #### Hundreds, thousands, millions and billions
 
-<img src="img/4000.png" style="max-height:100px;" align="right">
+<img src="img/4000.png" height=100px align="right">
 Writing multiple of hundreds, thousands, millions and billions is done in the same way as numbers 0-99, using the starter corresponding to the number of those you want, and one of the following  ender chords:
 <details>
 <summary>Big ender chords</summary>
